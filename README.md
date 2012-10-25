@@ -1,0 +1,3 @@
+i'm offiically name-squatting here...
+
+i envision this is the next, new, coolest project which integrates with opscode chef....haha.
